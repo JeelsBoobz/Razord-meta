@@ -23,24 +23,27 @@
         opacity: 0;
         max-height: 300px;
         overflow: auto;
-        background: $color-white;
+        color: $color-primary-darken;
+        background: $color-primary-darken;
         padding: 5px 0;
         transition: all 200ms ease;
 
         > .option {
-            color: $color-primary-darken;
+            color: $color-primary;
             padding: 10px 15px;
             font-size: 14px;
             list-style: none;
             cursor: pointer;
 
             &:hover {
-                background: rgba($color: $color-primary-lightly, $alpha: 0.5);
+                background: $color-primary-dark;
+                color: $color-white;
             }
         }
 
         > .selected {
-            background: rgba($color: $color-primary-lightly, $alpha: 0.5);
+            background: $color-primary;
+            color: $color-white
         }
     }
 }

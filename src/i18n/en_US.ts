@@ -4,7 +4,7 @@ const EN = {
         Overview: 'Overview',
         Logs: 'Logs',
         Rules: 'Rules',
-        Settings: 'Setting',
+        Settings: 'Settings',
         Connections: 'Connections',
         Version: 'Version',
     },
