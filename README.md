@@ -8,8 +8,8 @@
 <h4 align="center">Web Dashboard for Clash, now host on ClashX</h4>
 
 <p align="center">
-    <a href="https://github.com/Dreamacro/clash-dashboard/actions">
-        <img src="https://img.shields.io/github/workflow/status/Dreamacro/clash-dashboard/Deploy?style=flat-square" alt="Github Actions">
+    <a href="https://github.com/JeelsBoobz/Razord-meta/actions">
+        <img src="https://img.shields.io/github/actions/workflow/status/JeelsBoobz/Razord-meta/node.yml?branch=master" alt="Github Actions">
     </a>
 </p>
 
