@@ -69,7 +69,7 @@ export function Provider(props: ProvidersProps) {
                     </Tag>
                     {provider.subscriptionInfo?.Expire !== 0 && (
                         <Tag className="rule-provider-expire m-0">
-                            Expire: {expireStr}
+                            {t('providerExpire')}: {expireStr}
                         </Tag>
                     )}
                     {provider.subscriptionInfo && (

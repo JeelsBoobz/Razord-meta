@@ -121,6 +121,7 @@ const EN = {
         },
         groupTitle: 'Policy Group',
         providerTitle: 'Providers',
+        providerExpire: 'Expire',
         providerUpdateTime: 'Last updated at',
         expandText: 'Expand',
         collapseText: 'Collapse',
